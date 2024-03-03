@@ -262,7 +262,7 @@ button:hover {
 @media (max-height:850px) {
 
     body {
-        min-height: auto;
+        min-height: 700px;
     }
 
     main {
