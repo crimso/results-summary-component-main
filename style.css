@@ -208,7 +208,7 @@ button:hover {
 
 @media (max-width: 600px) {
     body {
-        min-height: 100svh;
+        min-height: 0;
 
     }
 
@@ -260,6 +260,15 @@ button:hover {
 }
 
 @media (max-height:850px) {
+
+    body {
+        min-height: auto;
+    }
+
+    main {
+        min-height: 100svh;
+    }
+
     .result-section-score {
         width: 120px;
         height: 120px;
