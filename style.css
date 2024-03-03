@@ -214,7 +214,7 @@ button:hover {
 
     main {
         flex-direction: column;
-        min-height: 100vh;
+        min-height: 100svh;
         border-radius: 0px 0px 30px 30px;
     }
 
