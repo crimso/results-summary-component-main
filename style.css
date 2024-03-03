@@ -262,11 +262,11 @@ button:hover {
 @media (max-height:850px) {
 
     body {
-        min-height: 700px;
+        max-height: 100vh;
     }
 
     main {
-        min-height: 100svh;
+        max-height: 700px;
     }
 
     .result-section-score {
