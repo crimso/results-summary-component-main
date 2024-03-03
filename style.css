@@ -205,9 +205,9 @@ button:hover {
 
 
 @media (max-width: 600px) {
-    body {
+    /* body {
         min-height: 0;
-    }
+    } */
 
     main {
         flex-direction: column;
@@ -255,13 +255,13 @@ button:hover {
 
 @media (max-height:850px) {
 
-    body {
+    /* body {
         max-height: 100%;
     }
 
     main {
         height: 650px;
-    }
+    } */
 
     .result-section-score {
         width: 120px;
