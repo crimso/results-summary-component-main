@@ -262,11 +262,11 @@ button:hover {
 @media (max-height:850px) {
 
     body {
-        max-height: 100vh;
+        max-height: 100%;
     }
 
     main {
-        max-height: 700px;
+        height: 650px;
     }
 
     .result-section-score {
@@ -282,6 +282,23 @@ button:hover {
 
     .result-section-main article h2 {
         font-size: 1.5rem;
+    }
+
+    .summary-section-main,
+    .summary-section-main ul  {
+
+        gap: 10px;
+    }
+
+
+    li {
+        padding: 8px 10px;
+
+    }
+
+    button {
+
+        padding: 12px;
     }
 
 
