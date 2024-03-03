@@ -188,8 +188,6 @@ p {
     color: var(--primary-cobalt-blue)
 }
 
-
-
 button {
     background-color: var(--neutral-dark-grey-blue);
     border: none;
@@ -209,7 +207,6 @@ button:hover {
 @media (max-width: 600px) {
     body {
         min-height: 0;
-
     }
 
     main {
@@ -239,18 +236,15 @@ button:hover {
     .result-section-score {
         width: 150px;
         height: 150px;
-
     }
 
     .result-section-score h2 {
         font-size: 4rem;
-
     }
 
     .summary-section-main {
         width: 100%;
         padding: 10px 40px 20px 40px;
-
     }
 
     .summary-section-main article h1 {
@@ -272,12 +266,10 @@ button:hover {
     .result-section-score {
         width: 120px;
         height: 120px;
-
     }
 
     .result-section-score h2 {
         font-size: 3.3rem;
-
     }
 
     .result-section-main article h2 {
@@ -285,19 +277,15 @@ button:hover {
     }
 
     .summary-section-main,
-    .summary-section-main ul  {
-
+    .summary-section-main ul {
         gap: 10px;
     }
 
-
     li {
         padding: 8px 10px;
-
     }
 
     button {
-
         padding: 12px;
     }
 
